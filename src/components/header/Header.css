@@ -1,0 +1,36 @@
+body{
+    padding: 24px 60px 24px 60px;
+    background-color: #DBDDE2;
+    height: 96px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.header a {
+    padding: 12px 24px 12px 24px;
+    text-decoration: none;
+    color: black;
+}
+
+.pages{
+    gap: 12;
+    align-items: center;
+}
+
+.contactUs {
+    
+}
+
+#logo {
+    width: 48px;
+    height: 48px;
+}
